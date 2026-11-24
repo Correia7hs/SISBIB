@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-// #include <ctype.h>
-// #include <stdlib.h> //usada para automatizar os códigos, terminar a função depois 
 #include <unistd.h>
 
 #define ARQUIVO_USUARIO "usuario.csv"
