@@ -51,7 +51,7 @@ Execute o arquivo `SISBIB.exe` na mesma pasta onde estão os arquivos `.csv`.
 
 > **Importante:** o programa lê e grava os arquivos `.csv` na pasta em que é executado. Rode sempre a partir da pasta do projeto.
 
-Se desejar ver o programa rodando com emojis ou letras acentuadas, vá em região -> alterar localidade do sistema e ative a opção: Usar unicode UTF-8 para suporte de lingaugem mundial.
+Se desejar ver o programa rodando com emojis ou letras acentuadas, abra as configurações com "windows + i" vá em região -> alterar localidade do sistema e ative a opção: Usar unicode UTF-8 para suporte de lingauagem mundial.
 Após isso abra o VS CODE :)
 
 ## Como usar
