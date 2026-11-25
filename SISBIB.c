@@ -8,7 +8,6 @@
 #define ARQUIVO_EMPRESTIMO "emprestimo.csv"
 #define ARQUIVO_TEMP "temp.csv"
 #define MAX_NOME 80
-// #define ID 100
 
 const char* const S[] ={"ATIVO", "INATIVO", "SUSPENSO"};
 
