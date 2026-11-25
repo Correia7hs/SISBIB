@@ -2,8 +2,6 @@
 
 Sistema de biblioteca em linguagem C, executado no terminal, para controlar usuários, autores, livros, estoque e empréstimos. Os dados ficam salvos em arquivos CSV, sem precisar de banco de dados.
 
-Projeto desenvolvido por estudante de Desenvolvimento de Sistemas para praticar C, manipulação de arquivos e organização de código em funções.
-
 ## Funcionalidades
 
 - **Usuários:** cadastrar, listar, atualizar e excluir. Cada usuário tem um status: `ATIVO` (padrão), `INATIVO` ou `SUSPENSO`.
